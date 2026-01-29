@@ -63,7 +63,7 @@ object Project48794_B : BuildType({
     name = "B"
 
     params {
-        param("parB", "valB")
+        param("parB", "valB1")
     }
 
     vcs {
